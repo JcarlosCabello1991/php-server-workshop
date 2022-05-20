@@ -1,0 +1,55 @@
+@import url(./normalize.css);
+
+body{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(0, 162, 255);
+}
+
+.header__nav--bar{
+    width: 100vw;
+}
+
+.nav__div--containerImg{
+    display: flex;
+    justify-content: center;
+    left: 58rem;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+.main--container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 20rem;
+    width: 100vw;
+}
+
+.main__filedset{
+    border: 3px solid rgb(98, 187, 243);
+    border-radius: 5px;
+    background-color: rgb(129, 255, 249);
+}
+
+.fieldset--legend{
+    text-align: center;
+    padding: 0 0 3rem 0;
+}
+
+.main__form--container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    width: 20rem;
+}
+
+.form-control{
+    width: 20rem;
+}
