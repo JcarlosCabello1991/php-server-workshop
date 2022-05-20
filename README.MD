@@ -2,7 +2,7 @@
 This projects consists in develop an application with php to make a user login, control this login, redirection to panel dasboard and log out.
 
 ### ORGANIZATION 
-<img src="./assets/SCHEMA.PNG" alt="schema-organization">
+<img src="./assets/SCHEMA.png" alt="schema-organization">
 
 ### TECHNOLOGIES
 BOOTSTRAP, CSS, HTML, PHP.
